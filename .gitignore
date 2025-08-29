@@ -1,3 +1,6 @@
+# Internal Visual Studio workspace data
+.vs/
+
 # Prerequisites
 *.d
 
