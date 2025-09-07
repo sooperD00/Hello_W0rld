@@ -26,6 +26,9 @@ class AsciiConsole
 
             // Render with multiple fonts
             Console.WriteLine(FiggleFonts.Standard.Render(input));
+            Console.WriteLine(FiggleFonts.Slant.Render(input));
+            Console.WriteLine(FiggleFonts.Ghost.Render(input));
+            Console.WriteLine("(above: Standard + Slant + Ghost fonts)");
         }
     }
 }
