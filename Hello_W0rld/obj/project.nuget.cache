@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "+BVFBXxvQJ8=",
+  "dgSpecHash": "L0hwYZvO7f0=",
   "success": true,
   "projectFilePath": "C:\\Users\\Barac0da\\source\\repos\\Hello_W0rld\\Hello_W0rld\\Hello_W0rld.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Barac0da\\.nuget\\packages\\figgle\\0.6.5\\figgle.0.6.5.nupkg.sha512",
+    "C:\\Users\\Barac0da\\.nuget\\packages\\figgle.fonts\\0.6.5\\figgle.fonts.0.6.5.nupkg.sha512"
+  ],
   "logs": []
 }
