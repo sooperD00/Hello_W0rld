@@ -1,6 +1,20 @@
 # Internal Visual Studio workspace data
 .vs/
 
+# Local publish folder
+/Publish/
+
+# Build output (all projects)
+**/bin/
+**/obj/
+
+# User-specific project files
+**/*.user
+**/*.suo
+
+# Publish profiles
+**/Properties/PublishProfiles/
+
 # Prerequisites
 *.d
 
