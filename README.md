@@ -73,9 +73,13 @@ ______ _               ______     _ _                      _
 
 
 ## ▶️ Usage Instructions
-*(TODO: Compile this project into a standalone `.exe` for Windows and add detailed usage instructions here.)*
 
-Currently, you can run the app from source in Visual Studio.
+1. Go to the [Releases page](https://github.com/sooperD00/Hello_W0rld/releases) and download the latest version (ZIP file).  
+2. Extract the ZIP to a folder on your Windows PC.  
+3. Open the folder and double-click `Hello_W0rld.exe` to run the app.  
+
+> Note: All included files from the ZIP must remain together in the folder for the app to work.
+
 
 
 ## 📜 Why a Hello World Repo?
