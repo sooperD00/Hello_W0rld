@@ -3,6 +3,7 @@
 
 # Local publish folder
 /Publish/
+/Releases/
 
 # Build output (all projects)
 **/bin/
