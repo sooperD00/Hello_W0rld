@@ -9,6 +9,9 @@
 **/bin/
 **/obj/
 
+# Inno Setup compiled output
+/Installers/Output/
+
 # User-specific project files
 **/*.user
 **/*.suo

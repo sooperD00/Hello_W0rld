@@ -72,14 +72,14 @@ ______ _               ______     _ _                      _
 ```
 
 
-## ▶️ Usage Instructions
+## ▶️ Installation & Usage (v1.1.0)
 
-1. Go to the [Releases page](https://github.com/sooperD00/Hello_W0rld/releases) and download the latest version (ZIP file).  
-2. Extract the ZIP to a folder on your Windows PC.  
-3. Open the folder and double-click `Hello_W0rld.exe` to run the app.  
+Now includes a **Windows installer**! 🎉
 
-> Note: All included files from the ZIP must remain together in the folder for the app to work.
-
+1. Go to the [Releases page](https://github.com/sooperD00/Hello_W0rld/releases) and download `Hello_W0rld_Installer.exe` for v1.1.0.
+2. Run the installer and follow the prompts.
+3. Launch Hello_W0rld from the Start Menu or desktop shortcut.
+4. Type into the console and enjoy the ASCII render of your input.
 
 
 ## 📜 Why a Hello World Repo?
