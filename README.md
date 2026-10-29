@@ -1,6 +1,8 @@
 ﻿# Hello_W0rld
 ## a playful throwback written with modern tools; the start of a portfolio outside industry firewalls.
 
+**The Hell0 series:** **Hello_W0rld** (console app) → [Hell0_TDD](https://github.com/sooperD00/Hell0_TDD) (tested library on NuGet) → [Hell0_Web](https://github.com/sooperD00/Hell0_Web) (web app + CI/CD) → [Hello_Eliza](https://github.com/sooperD00/Hello_Eliza) (what it grew into)
+
 Welcome to **Hello_W0rld**, an interactive ASCII art console app written in **C#/.NET**.  
 
 This project started as a simple “Hello World” program, and now it’s a **playful, command-driven ASCII REPL** where you can type anything and see it rendered in multiple Figgle fonts.  
@@ -19,7 +21,6 @@ It’s my first public GitHub project — a way to combine **professional coding
 - Press **Enter** on an empty line to quit  
 
 # 🖥️ Example Session
-*(TODO: add screenshots/gif here)*
 ```
 Welcome to Hello_W0rld ASCII Console.
  _   _      _ _        __        __         _     _ 
@@ -84,15 +85,12 @@ Now includes a **Windows installer**! 🎉
 
 ## 📜 Why a Hello World Repo?
 
-This repo is my personal first step in public GitHub coding after years of private work (semiconductors, manufacturing systems, and data). It's my way of saying:
-- I can write clean, professional C# code
-- I care about project structure, commits, and documentation
-- I still enjoy the fun side of coding 🎮
+This repo is my personal first step in public GitHub coding after years of private work (semiconductors, manufacturing systems, and data). It's my way of saying I still enjoy the fun side of coding 🎮
 
 
 ## 🧰 Tech Stack
 - Language: C#
-- Framework: .NET 9 (compatible with .NET 6+)
+- Framework: .NET 8
 - Library: [Figgle](https://www.nuget.org/packages/Figgle/) for ASCII fonts
 
 
