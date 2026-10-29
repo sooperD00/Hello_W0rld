@@ -19,7 +19,6 @@ It’s my first public GitHub project — a way to combine **professional coding
 - Press **Enter** on an empty line to quit  
 
 # 🖥️ Example Session
-*(TODO: add screenshots/gif here)*
 ```
 Welcome to Hello_W0rld ASCII Console.
  _   _      _ _        __        __         _     _ 
@@ -92,7 +91,7 @@ This repo is my personal first step in public GitHub coding after years of priva
 
 ## 🧰 Tech Stack
 - Language: C#
-- Framework: .NET 9 (compatible with .NET 6+)
+- Framework: .NET 8
 - Library: [Figgle](https://www.nuget.org/packages/Figgle/) for ASCII fonts
 
 
